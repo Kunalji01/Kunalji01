@@ -49,6 +49,10 @@ book records, borrowing, and returning operations.
 
 ![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunalji01&show_icons=true&theme=dark)
 
+## 🧩 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/VOGzeCwCkO?theme=dark)](https://leetcode.com/u/VOGzeCwCkO/)
+
 ---
 
 ## 🔥 Contribution Streak
