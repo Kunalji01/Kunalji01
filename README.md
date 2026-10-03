@@ -1,8 +1,30 @@
-# Hi 👋, I'm Kunal Kumar
+<h1>Hi 👋, I'm Kunal Kumar</h1>
 
-<p align="center">
-  <img src="./coding.gif" width="400">
-</p>
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<h3>A passionate Computer Science student from India 🇮🇳</h3>
+
+<ul>
+<li>🎓 Currently pursuing B.Tech in Computer Science</li>
+<li>💻 Interested in Software Development</li>
+<li>🌱 Currently improving my DSA and FullStack Development skills</li>
+<li>🚀 Building projects to improve my programming skills</li>
+<li>🤝 Open to learning, collaborating and working on interesting projects</li>
+<li>💬 Ask me about C++, FullStack MERN and DSA</li>
+<li>📫 Reach me at: <a href="mailto:goswamik752@gmail.com">goswamik752@gmail.com</a></li>
+</ul>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./assets/coding.gif" width="350">
+
+</td>
+</tr>
+</table>
 
 ### A passionate Computer Science student from India 🇮🇳
 
