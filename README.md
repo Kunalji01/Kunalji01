@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kunal Kumar
 
 <p align="center">
-  <img src="./assets/coding-coffee.gif" width="400">
+  <img src="./coding.gif" width="400">
 </p>
 
 ### A passionate Computer Science student from India 🇮🇳
