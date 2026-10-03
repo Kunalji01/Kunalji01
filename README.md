@@ -20,23 +20,13 @@
 
 <td width="40%" align="center">
 
-<img src="./assets/coding.gif" width="350">
+<img src="./coding.gif" width="350">
 
 </td>
 </tr>
 </table>
 
-### A passionate Computer Science student from India 🇮🇳
 
-- 🎓 Currently pursuing B.Tech in Computer Science
-- 💻 Interested in Software Development
-- 🌱 Currently improving my DSA and FullStack Development skills
-- 🚀 Building projects to improve my programming skills
-- 🤝 Open to learning, collaborating and working on interesting projects
-- 💬 Ask me about C++, FullStack MERN and DSA
-- 📫 Reach me at: goswamik752@gmail.com
-
----
 
 ## 🌐 Connect with Me
 
