@@ -52,7 +52,7 @@
 ---
 ## 🐍 Snake Game
 
-![Snake animation](https://github.com/Kunalji01/Kunalji01/)
+![Snake animation](https://github.com/Kunalji01/Kunalji01/blob/main/snake.svg)
 
 <div align="center">
 
