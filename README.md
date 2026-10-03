@@ -48,7 +48,13 @@
 
 </p>
 
+
 ---
+## 🐍 Snake Game
+
+![Snake animation](https://github.com/Kunalji01/Kunalji01/)
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
