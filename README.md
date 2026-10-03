@@ -20,7 +20,11 @@
 
 <td width="40%" align="center">
 
-<img src="./coding.gif" width="350">
+<div style="width:350px; height:220px; overflow:hidden;">
+  <img src="./coding.gif"
+       width="350"
+       style="margin-top:-55px;">
+</div>
 
 </td>
 </tr>
